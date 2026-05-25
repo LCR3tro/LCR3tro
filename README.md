@@ -5,7 +5,7 @@ Hi, My name is Lucas Silva Cerqueira
 About Me:  
 I am a Computer Science student at Uniruy Wyden College;
 
-I am also a student of Data Science and Java back-end development, both at Alura;    
+I am also a student of PHP and Java back-end development, both at Alura;    
 I'm a programmer focusing on full-stack development, and I am currently in my second year of computer science, but I enjoy anything related to programming.  
 I Love Watch Dogs and The Last of Us!
 
